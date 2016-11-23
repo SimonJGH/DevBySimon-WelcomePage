@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DevBySimon-WelcomePage</string>
+
+    <string name="wel_bt_start">进入软件</string>
+</resources>
